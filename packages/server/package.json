@@ -13,7 +13,8 @@
    "dependencies": {
       "dotenv": "^17.2.3",
       "express": "^5.2.1",
-      "openai": "^6.9.1"
+      "openai": "^6.9.1",
+      "zod": "^4.1.13"
    },
    "scripts": {
       "start": "bun run index.js",
